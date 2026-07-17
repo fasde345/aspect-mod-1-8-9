@@ -23,4 +23,4 @@ plugins {
 }
 
 
-rootProject.name = "examplemod"
+rootProject.name = "aspect-mod-1-8-9"
